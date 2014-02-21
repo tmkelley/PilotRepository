@@ -1,10 +1,10 @@
 PilotRepository
 ===============
 
-this is the first github experience
+this first github experience was the most awesome thing that happened to me today!!
 
-opening this file is a pain in the ass
+opening this file was really easy.
 
-making some quick changes to the repo
+[Justin](https://github.com/JustinLongo) could possible be the best GitHub instructor I've ever had. Ever.
 
-Jordan was here!
+Jordan2.0 was here!
